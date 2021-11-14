@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "questions"[
         {
@@ -26,3 +27,6 @@
         }
     ]
 }
+=======
+{"questions":[{"question":"q1","level":"1","answers":["answer1","answer2","answer3","answer4"],"team":"animal","correct_ans":"2"},{"question":"q2","level":"2","answers":["answer1","answer2","answer3","answer4"],"team":"animal","correct_ans":"1"},{"question":"q3","level":"3","answers":[],"team":"Zebra","correct_ans":"1"}]}
+>>>>>>> 956961dbd225839d25f4e91bc545b56103fd412e
